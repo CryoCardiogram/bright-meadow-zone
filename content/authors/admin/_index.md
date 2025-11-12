@@ -40,6 +40,7 @@ profiles:
   #   url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/CryoCardiogram
+  - icon: brands/linkedin
     url: https://www.linkedin.com/in/maxime-mulamba-ke-tchomba-b17145195/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=SxpKsuIAAAAJ
@@ -85,9 +86,9 @@ work:
     icon: ''
     date_start: 2024-11-11
     date_end: ''
-    summary: |2-
-      Implemented heuristics for middle-mile network design optimization. 
-      Contributed to building a fast and lightweight volume shift forecasting tool to assess the impact of changes in middle-mile network 
+    # summary: |2-
+    #   Implemented heuristics for middle-mile network design optimization. 
+    #   Contributed to building a fast and lightweight volume shift forecasting tool to assess the impact of changes in middle-mile network 
   - position: Teaching Assistant
     company_name: UCLouvain
     company_url: 'https://www.uclouvain.be/en/research-institutes/icteam'
